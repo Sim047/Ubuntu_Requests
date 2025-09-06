@@ -41,5 +41,6 @@ The **Ubuntu Image Fetcher** is a Python script that respectfully connects to th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Ubuntu_Requests.git
+git clone https://github.com/Sim047/Ubuntu_Requests.git
 cd Ubuntu_Requests
+
